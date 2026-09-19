@@ -3,7 +3,7 @@
     "RED": 615,
     "GREEN": 555,
     "BLUE": 323,
-    "YELLO": 158
+    "YELLO": 154
   },
   "levels": {
     "409": {
@@ -842,7 +842,7 @@
       "user": "thevoidjake"
     },
     "1868": {
-      "tier": "featured",
+      "tier": "star",
       "uid": "931",
       "user": "BenjamlnNetanyahu"
     },

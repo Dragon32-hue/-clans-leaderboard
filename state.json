@@ -1,0 +1,1970 @@
+{
+  "points": {
+    "RED": 615,
+    "GREEN": 555,
+    "BLUE": 323,
+    "YELLO": 158
+  },
+  "levels": {
+    "409": {
+      "tier": "mythic",
+      "uid": "127",
+      "user": "Astro"
+    },
+    "633": {
+      "tier": "mythic",
+      "uid": "209",
+      "user": "Flyx"
+    },
+    "1284": {
+      "tier": "mythic",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "361": {
+      "tier": "mythic",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "1626": {
+      "tier": "mythic",
+      "uid": "892",
+      "user": "OmaxMorales"
+    },
+    "169": {
+      "tier": "mythic",
+      "uid": "93",
+      "user": "Cato"
+    },
+    "1049": {
+      "tier": "mythic",
+      "uid": "519",
+      "user": "elektrick"
+    },
+    "1453": {
+      "tier": "mythic",
+      "uid": "799",
+      "user": "bazzie"
+    },
+    "1674": {
+      "tier": "mythic",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1086": {
+      "tier": "mythic",
+      "uid": "143",
+      "user": "DragonGMD"
+    },
+    "241": {
+      "tier": "legendary",
+      "uid": "104",
+      "user": "Random"
+    },
+    "306": {
+      "tier": "legendary",
+      "uid": "79",
+      "user": "NutzyGamer"
+    },
+    "102": {
+      "tier": "legendary",
+      "uid": "73",
+      "user": "EliamRA"
+    },
+    "322": {
+      "tier": "legendary",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "1689": {
+      "tier": "legendary",
+      "uid": "872",
+      "user": "SilentUnknown"
+    },
+    "173": {
+      "tier": "legendary",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "1807": {
+      "tier": "legendary",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "323": {
+      "tier": "legendary",
+      "uid": "116",
+      "user": "kanameij"
+    },
+    "1604": {
+      "tier": "legendary",
+      "uid": "123",
+      "user": "GarchompEX"
+    },
+    "579": {
+      "tier": "legendary",
+      "uid": "195",
+      "user": "ZellWowStar"
+    },
+    "704": {
+      "tier": "legendary",
+      "uid": "81",
+      "user": "BloomTails"
+    },
+    "1773": {
+      "tier": "legendary",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "780": {
+      "tier": "legendary",
+      "uid": "143",
+      "user": "DragonGMD"
+    },
+    "1052": {
+      "tier": "legendary",
+      "uid": "524",
+      "user": "Samstreem"
+    },
+    "1843": {
+      "tier": "legendary",
+      "uid": "964",
+      "user": "Dragonix"
+    },
+    "1627": {
+      "tier": "legendary",
+      "uid": "123",
+      "user": "GarchompEX"
+    },
+    "1663": {
+      "tier": "legendary",
+      "uid": "892",
+      "user": "OmaxMorales"
+    },
+    "1429": {
+      "tier": "legendary",
+      "uid": "209",
+      "user": "Flyx"
+    },
+    "1696": {
+      "tier": "legendary",
+      "uid": "143",
+      "user": "DragonGMD"
+    },
+    "332": {
+      "tier": "legendary",
+      "uid": "116",
+      "user": "kanameij"
+    },
+    "342": {
+      "tier": "legendary",
+      "uid": "127",
+      "user": "Astro"
+    },
+    "1691": {
+      "tier": "legendary",
+      "uid": "913",
+      "user": "LarpTailsXD"
+    },
+    "427": {
+      "tier": "legendary",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "1563": {
+      "tier": "legendary",
+      "uid": "93",
+      "user": "Cato"
+    },
+    "274": {
+      "tier": "epic",
+      "uid": "112",
+      "user": "clover"
+    },
+    "316": {
+      "tier": "epic",
+      "uid": "123",
+      "user": "GarchompEX"
+    },
+    "1094": {
+      "tier": "epic",
+      "uid": "548",
+      "user": "Echo"
+    },
+    "550": {
+      "tier": "epic",
+      "uid": "74",
+      "user": "wudja"
+    },
+    "1460": {
+      "tier": "epic",
+      "uid": "804",
+      "user": "rex"
+    },
+    "405": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1059": {
+      "tier": "epic",
+      "uid": "526",
+      "user": "volo100"
+    },
+    "1080": {
+      "tier": "epic",
+      "uid": "548",
+      "user": "Echo"
+    },
+    "1628": {
+      "tier": "epic",
+      "uid": "248",
+      "user": "SUPERSTAR5555"
+    },
+    "1189": {
+      "tier": "epic",
+      "uid": "193",
+      "user": "skorka"
+    },
+    "1285": {
+      "tier": "epic",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1451": {
+      "tier": "epic",
+      "uid": "791",
+      "user": "greenteam"
+    },
+    "455": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "769": {
+      "tier": "epic",
+      "uid": "268",
+      "user": "Pimsik"
+    },
+    "315": {
+      "tier": "epic",
+      "uid": "122",
+      "user": "hiints"
+    },
+    "1624": {
+      "tier": "epic",
+      "uid": "891",
+      "user": "CINDER"
+    },
+    "1383": {
+      "tier": "epic",
+      "uid": "243",
+      "user": "PlasticMemories"
+    },
+    "694": {
+      "tier": "epic",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "1727": {
+      "tier": "epic",
+      "uid": "791",
+      "user": "greenteam"
+    },
+    "207": {
+      "tier": "epic",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "252": {
+      "tier": "epic",
+      "uid": "104",
+      "user": "Random"
+    },
+    "616": {
+      "tier": "epic",
+      "uid": "202",
+      "user": "Zeppy"
+    },
+    "1399": {
+      "tier": "epic",
+      "uid": "171",
+      "user": "ChewyShapez"
+    },
+    "234": {
+      "tier": "epic",
+      "uid": "73",
+      "user": "EliamRA"
+    },
+    "1277": {
+      "tier": "epic",
+      "uid": "503",
+      "user": "bese"
+    },
+    "1619": {
+      "tier": "epic",
+      "uid": "885",
+      "user": "TheCrazyCob"
+    },
+    "1193": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1201": {
+      "tier": "epic",
+      "uid": "526",
+      "user": "volo100"
+    },
+    "1021": {
+      "tier": "epic",
+      "uid": "175",
+      "user": "tix"
+    },
+    "1708": {
+      "tier": "epic",
+      "uid": "248",
+      "user": "SUPERSTAR5555"
+    },
+    "962": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "486": {
+      "tier": "epic",
+      "uid": "176",
+      "user": "zendli"
+    },
+    "1795": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "264": {
+      "tier": "epic",
+      "uid": "99",
+      "user": "Zack"
+    },
+    "1751": {
+      "tier": "epic",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "1274": {
+      "tier": "epic",
+      "uid": "112",
+      "user": "clover"
+    },
+    "1565": {
+      "tier": "epic",
+      "uid": "112",
+      "user": "clover"
+    },
+    "1398": {
+      "tier": "epic",
+      "uid": "765",
+      "user": "User"
+    },
+    "1692": {
+      "tier": "epic",
+      "uid": "117",
+      "user": "thevoidjake"
+    },
+    "424": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "779": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "528": {
+      "tier": "epic",
+      "uid": "127",
+      "user": "Astro"
+    },
+    "1044": {
+      "tier": "epic",
+      "uid": "503",
+      "user": "bese"
+    },
+    "1606": {
+      "tier": "epic",
+      "uid": "123",
+      "user": "GarchompEX"
+    },
+    "1953": {
+      "tier": "epic",
+      "uid": "123",
+      "user": "GarchompEX"
+    },
+    "1442": {
+      "tier": "epic",
+      "uid": "758",
+      "user": "FPEEU"
+    },
+    "1191": {
+      "tier": "epic",
+      "uid": "548",
+      "user": "Echo"
+    },
+    "713": {
+      "tier": "epic",
+      "uid": "243",
+      "user": "PlasticMemories"
+    },
+    "1740": {
+      "tier": "epic",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "1742": {
+      "tier": "epic",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "1556": {
+      "tier": "epic",
+      "uid": "853",
+      "user": "ATRI"
+    },
+    "1625": {
+      "tier": "epic",
+      "uid": "891",
+      "user": "CINDER"
+    },
+    "610": {
+      "tier": "epic",
+      "uid": "104",
+      "user": "Random"
+    },
+    "1902": {
+      "tier": "epic",
+      "uid": "143",
+      "user": "DragonGMD"
+    },
+    "651": {
+      "tier": "epic",
+      "uid": "143",
+      "user": "DragonGMD"
+    },
+    "1949": {
+      "tier": "epic",
+      "uid": "976",
+      "user": "ValderusUWU"
+    },
+    "706": {
+      "tier": "epic",
+      "uid": "99",
+      "user": "Zack"
+    },
+    "1741": {
+      "tier": "epic",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "473": {
+      "tier": "epic",
+      "uid": "175",
+      "user": "tix"
+    },
+    "1527": {
+      "tier": "epic",
+      "uid": "840",
+      "user": "Miroor"
+    },
+    "1019": {
+      "tier": "epic",
+      "uid": "501",
+      "user": "Syne"
+    },
+    "1537": {
+      "tier": "epic",
+      "uid": "112",
+      "user": "clover"
+    },
+    "347": {
+      "tier": "epic",
+      "uid": "127",
+      "user": "Astro"
+    },
+    "1661": {
+      "tier": "epic",
+      "uid": "904",
+      "user": "TheweKT"
+    },
+    "216": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "529": {
+      "tier": "epic",
+      "uid": "127",
+      "user": "Astro"
+    },
+    "547": {
+      "tier": "epic",
+      "uid": "171",
+      "user": "ChewyShapez"
+    },
+    "1890": {
+      "tier": "epic",
+      "uid": "964",
+      "user": "Dragonix"
+    },
+    "213": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "576": {
+      "tier": "epic",
+      "uid": "190",
+      "user": "griffin"
+    },
+    "214": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "383": {
+      "tier": "featured",
+      "uid": "104",
+      "user": "Random"
+    },
+    "692": {
+      "tier": "featured",
+      "uid": "198",
+      "user": "Jolaf"
+    },
+    "215": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1035": {
+      "tier": "featured",
+      "uid": "486",
+      "user": "KingMagma"
+    },
+    "736": {
+      "tier": "featured",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "634": {
+      "tier": "featured",
+      "uid": "143",
+      "user": "DragonGMD"
+    },
+    "1318": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "677": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "302": {
+      "tier": "featured",
+      "uid": "116",
+      "user": "kanameij"
+    },
+    "1564": {
+      "tier": "featured",
+      "uid": "112",
+      "user": "clover"
+    },
+    "1351": {
+      "tier": "featured",
+      "uid": "736",
+      "user": "Ryan"
+    },
+    "1372": {
+      "tier": "featured",
+      "uid": "486",
+      "user": "KingMagma"
+    },
+    "101": {
+      "tier": "featured",
+      "uid": "72",
+      "user": "Frigid"
+    },
+    "118": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1726": {
+      "tier": "featured",
+      "uid": "268",
+      "user": "Pimsik"
+    },
+    "1517": {
+      "tier": "featured",
+      "uid": "701",
+      "user": "Ortyo"
+    },
+    "1917": {
+      "tier": "featured",
+      "uid": "989",
+      "user": "asyntu"
+    },
+    "1699": {
+      "tier": "featured",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1205": {
+      "tier": "featured",
+      "uid": "486",
+      "user": "KingMagma"
+    },
+    "227": {
+      "tier": "featured",
+      "uid": "79",
+      "user": "NutzyGamer"
+    },
+    "1251": {
+      "tier": "featured",
+      "uid": "701",
+      "user": "Ortyo"
+    },
+    "516": {
+      "tier": "featured",
+      "uid": "143",
+      "user": "DragonGMD"
+    },
+    "1815": {
+      "tier": "featured",
+      "uid": "830",
+      "user": "WudjAnotherone"
+    },
+    "310": {
+      "tier": "featured",
+      "uid": "82",
+      "user": "MudAnimates"
+    },
+    "567": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "107": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "229": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "761": {
+      "tier": "featured",
+      "uid": "198",
+      "user": "Jolaf"
+    },
+    "260": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1801": {
+      "tier": "featured",
+      "uid": "176",
+      "user": "zendli"
+    },
+    "551": {
+      "tier": "featured",
+      "uid": "176",
+      "user": "zendli"
+    },
+    "1319": {
+      "tier": "featured",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "556": {
+      "tier": "featured",
+      "uid": "176",
+      "user": "zendli"
+    },
+    "1871": {
+      "tier": "featured",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "631": {
+      "tier": "featured",
+      "uid": "206",
+      "user": "TeamYellow"
+    },
+    "155": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1232": {
+      "tier": "featured",
+      "uid": "486",
+      "user": "KingMagma"
+    },
+    "1756": {
+      "tier": "featured",
+      "uid": "935",
+      "user": "SubZer0"
+    },
+    "231": {
+      "tier": "featured",
+      "uid": "99",
+      "user": "Zack"
+    },
+    "489": {
+      "tier": "featured",
+      "uid": "176",
+      "user": "zendli"
+    },
+    "1260": {
+      "tier": "featured",
+      "uid": "701",
+      "user": "Ortyo"
+    },
+    "1525": {
+      "tier": "featured",
+      "uid": "817",
+      "user": "Rolling9"
+    },
+    "514": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "521": {
+      "tier": "featured",
+      "uid": "143",
+      "user": "DragonGMD"
+    },
+    "1568": {
+      "tier": "featured",
+      "uid": "853",
+      "user": "ATRI"
+    },
+    "1320": {
+      "tier": "featured",
+      "uid": "486",
+      "user": "KingMagma"
+    },
+    "1066": {
+      "tier": "featured",
+      "uid": "486",
+      "user": "KingMagma"
+    },
+    "566": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1607": {
+      "tier": "featured",
+      "uid": "885",
+      "user": "TheCrazyCob"
+    },
+    "1615": {
+      "tier": "featured",
+      "uid": "799",
+      "user": "bazzie"
+    },
+    "1402": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "174": {
+      "tier": "featured",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "1258": {
+      "tier": "featured",
+      "uid": "713",
+      "user": "Kat"
+    },
+    "1776": {
+      "tier": "featured",
+      "uid": "856",
+      "user": "Saphire2415"
+    },
+    "1290": {
+      "tier": "featured",
+      "uid": "735",
+      "user": "Carnate"
+    },
+    "1048": {
+      "tier": "featured",
+      "uid": "470",
+      "user": "RobTop"
+    },
+    "1560": {
+      "tier": "featured",
+      "uid": "117",
+      "user": "thevoidjake"
+    },
+    "1575": {
+      "tier": "featured",
+      "uid": "804",
+      "user": "rex"
+    },
+    "1065": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "575": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "578": {
+      "tier": "featured",
+      "uid": "193",
+      "user": "skorka"
+    },
+    "325": {
+      "tier": "featured",
+      "uid": "117",
+      "user": "thevoidjake"
+    },
+    "1868": {
+      "tier": "featured",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "1620": {
+      "tier": "featured",
+      "uid": "799",
+      "user": "bazzie"
+    },
+    "618": {
+      "tier": "featured",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "140": {
+      "tier": "featured",
+      "uid": "74",
+      "user": "wudja"
+    },
+    "1684": {
+      "tier": "featured",
+      "uid": "503",
+      "user": "bese"
+    },
+    "1439": {
+      "tier": "featured",
+      "uid": "782",
+      "user": "HycTheGreat"
+    },
+    "1698": {
+      "tier": "featured",
+      "uid": "222",
+      "user": "JuanCruzzz"
+    },
+    "686": {
+      "tier": "featured",
+      "uid": "157",
+      "user": "Nurasaill"
+    },
+    "1732": {
+      "tier": "featured",
+      "uid": "701",
+      "user": "Ortyo"
+    },
+    "465": {
+      "tier": "featured",
+      "uid": "73",
+      "user": "EliamRA"
+    },
+    "755": {
+      "tier": "featured",
+      "uid": "143",
+      "user": "DragonGMD"
+    },
+    "1545": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "284": {
+      "tier": "featured",
+      "uid": "113",
+      "user": "NoveltyTeam"
+    },
+    "300": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1857": {
+      "tier": "featured",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1858": {
+      "tier": "featured",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1863": {
+      "tier": "featured",
+      "uid": "970",
+      "user": "NeoNX50"
+    },
+    "614": {
+      "tier": "featured",
+      "uid": "196",
+      "user": "geometrydash"
+    },
+    "1905": {
+      "tier": "featured",
+      "uid": "975",
+      "user": "whoami"
+    },
+    "643": {
+      "tier": "featured",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "1695": {
+      "tier": "featured",
+      "uid": "782",
+      "user": "HycTheGreat"
+    },
+    "421": {
+      "tier": "featured",
+      "uid": "73",
+      "user": "EliamRA"
+    },
+    "689": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1739": {
+      "tier": "featured",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "738": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1821": {
+      "tier": "featured",
+      "uid": "268",
+      "user": "Pimsik"
+    },
+    "555": {
+      "tier": "featured",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "1597": {
+      "tier": "featured",
+      "uid": "122",
+      "user": "hiints"
+    },
+    "337": {
+      "tier": "featured",
+      "uid": "80",
+      "user": "Igneous"
+    },
+    "606": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "619": {
+      "tier": "featured",
+      "uid": "200",
+      "user": "Creatorplus"
+    },
+    "647": {
+      "tier": "featured",
+      "uid": "210",
+      "user": "AtomiX"
+    },
+    "650": {
+      "tier": "featured",
+      "uid": "117",
+      "user": "thevoidjake"
+    },
+    "1679": {
+      "tier": "featured",
+      "uid": "176",
+      "user": "zendli"
+    },
+    "676": {
+      "tier": "featured",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "454": {
+      "tier": "featured",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "475": {
+      "tier": "featured",
+      "uid": "112",
+      "user": "clover"
+    },
+    "997": {
+      "tier": "featured",
+      "uid": "475",
+      "user": "ThSeek"
+    },
+    "1778": {
+      "tier": "featured",
+      "uid": "856",
+      "user": "Saphire2415"
+    },
+    "767": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "258": {
+      "tier": "featured",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "1550": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "557": {
+      "tier": "featured",
+      "uid": "113",
+      "user": "NoveltyTeam"
+    },
+    "1581": {
+      "tier": "featured",
+      "uid": "817",
+      "user": "Rolling9"
+    },
+    "1866": {
+      "tier": "featured",
+      "uid": "856",
+      "user": "Saphire2415"
+    },
+    "1876": {
+      "tier": "featured",
+      "uid": "964",
+      "user": "Dragonix"
+    },
+    "1384": {
+      "tier": "featured",
+      "uid": "179",
+      "user": "Bao143"
+    },
+    "658": {
+      "tier": "featured",
+      "uid": "214",
+      "user": "thedarkcloakcat"
+    },
+    "664": {
+      "tier": "featured",
+      "uid": "117",
+      "user": "thevoidjake"
+    },
+    "1945": {
+      "tier": "featured",
+      "uid": "486",
+      "user": "KingMagma"
+    },
+    "937": {
+      "tier": "featured",
+      "uid": "230",
+      "user": "kenzieshane"
+    },
+    "1705": {
+      "tier": "featured",
+      "uid": "122",
+      "user": "hiints"
+    },
+    "735": {
+      "tier": "featured",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "752": {
+      "tier": "featured",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "1538": {
+      "tier": "featured",
+      "uid": "848",
+      "user": "clwvm"
+    },
+    "638": {
+      "tier": "featured",
+      "uid": "189",
+      "user": "reupload2"
+    },
+    "391": {
+      "tier": "featured",
+      "uid": "116",
+      "user": "kanameij"
+    },
+    "1694": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "164": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1765": {
+      "tier": "featured",
+      "uid": "830",
+      "user": "WudjAnotherone"
+    },
+    "1508": {
+      "tier": "featured",
+      "uid": "765",
+      "user": "User"
+    },
+    "254": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "559": {
+      "tier": "featured",
+      "uid": "157",
+      "user": "Nurasaill"
+    },
+    "644": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "625": {
+      "tier": "featured",
+      "uid": "113",
+      "user": "NoveltyTeam"
+    },
+    "138": {
+      "tier": "star",
+      "uid": "74",
+      "user": "wudja"
+    },
+    "105": {
+      "tier": "star",
+      "uid": "74",
+      "user": "wudja"
+    },
+    "330": {
+      "tier": "star",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "756": {
+      "tier": "star",
+      "uid": "202",
+      "user": "Zeppy"
+    },
+    "279": {
+      "tier": "star",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "228": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "759": {
+      "tier": "star",
+      "uid": "157",
+      "user": "Nurasaill"
+    },
+    "345": {
+      "tier": "star",
+      "uid": "84",
+      "user": "tails1154"
+    },
+    "731": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "744": {
+      "tier": "star",
+      "uid": "259",
+      "user": "mark06"
+    },
+    "775": {
+      "tier": "star",
+      "uid": "268",
+      "user": "Pimsik"
+    },
+    "230": {
+      "tier": "star",
+      "uid": "101",
+      "user": "BrySky"
+    },
+    "158": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "104": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1510": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1400": {
+      "tier": "star",
+      "uid": "701",
+      "user": "Ortyo"
+    },
+    "1350": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "348": {
+      "tier": "star",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "157": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "134": {
+      "tier": "star",
+      "uid": "80",
+      "user": "Igneous"
+    },
+    "1480": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1386": {
+      "tier": "star",
+      "uid": "770",
+      "user": "sixenn"
+    },
+    "1313": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "730": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "712": {
+      "tier": "star",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "205": {
+      "tier": "star",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "108": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1456": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1261": {
+      "tier": "star",
+      "uid": "198",
+      "user": "Jolaf"
+    },
+    "1226": {
+      "tier": "star",
+      "uid": "548",
+      "user": "Echo"
+    },
+    "746": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "679": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "1079": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1622": {
+      "tier": "star",
+      "uid": "886",
+      "user": "Alexich"
+    },
+    "1367": {
+      "tier": "star",
+      "uid": "761",
+      "user": "bastidea2"
+    },
+    "615": {
+      "tier": "star",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "111": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "384": {
+      "tier": "star",
+      "uid": "117",
+      "user": "thevoidjake"
+    },
+    "133": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1768": {
+      "tier": "star",
+      "uid": "830",
+      "user": "WudjAnotherone"
+    },
+    "243": {
+      "tier": "star",
+      "uid": "104",
+      "user": "Random"
+    },
+    "1016": {
+      "tier": "star",
+      "uid": "470",
+      "user": "RobTop"
+    },
+    "770": {
+      "tier": "star",
+      "uid": "252",
+      "user": "Sourcat"
+    },
+    "525": {
+      "tier": "star",
+      "uid": "178",
+      "user": "UltraDash"
+    },
+    "1305": {
+      "tier": "star",
+      "uid": "736",
+      "user": "Ryan"
+    },
+    "308": {
+      "tier": "star",
+      "uid": "108",
+      "user": "YZdashity"
+    },
+    "1092": {
+      "tier": "star",
+      "uid": "548",
+      "user": "Echo"
+    },
+    "1862": {
+      "tier": "star",
+      "uid": "701",
+      "user": "Ortyo"
+    },
+    "1358": {
+      "tier": "star",
+      "uid": "713",
+      "user": "Kat"
+    },
+    "1874": {
+      "tier": "star",
+      "uid": "974",
+      "user": "rasd"
+    },
+    "109": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "629": {
+      "tier": "star",
+      "uid": "206",
+      "user": "TeamYellow"
+    },
+    "1653": {
+      "tier": "star",
+      "uid": "758",
+      "user": "FPEEU"
+    },
+    "1401": {
+      "tier": "star",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "1222": {
+      "tier": "star",
+      "uid": "533",
+      "user": "Karim"
+    },
+    "223": {
+      "tier": "star",
+      "uid": "101",
+      "user": "BrySky"
+    },
+    "1774": {
+      "tier": "star",
+      "uid": "233",
+      "user": "paperpenguins"
+    },
+    "763": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "286": {
+      "tier": "star",
+      "uid": "113",
+      "user": "NoveltyTeam"
+    },
+    "1632": {
+      "tier": "star",
+      "uid": "112",
+      "user": "clover"
+    },
+    "113": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "669": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "1190": {
+      "tier": "star",
+      "uid": "503",
+      "user": "bese"
+    },
+    "1449": {
+      "tier": "star",
+      "uid": "503",
+      "user": "bese"
+    },
+    "1747": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1243": {
+      "tier": "star",
+      "uid": "143",
+      "user": "DragonGMD"
+    },
+    "768": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "267": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1812": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "1323": {
+      "tier": "star",
+      "uid": "476",
+      "user": "tjxgodd"
+    },
+    "318": {
+      "tier": "star",
+      "uid": "101",
+      "user": "BrySky"
+    },
+    "1856": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1869": {
+      "tier": "star",
+      "uid": "856",
+      "user": "Saphire2415"
+    },
+    "598": {
+      "tier": "star",
+      "uid": "198",
+      "user": "Jolaf"
+    },
+    "1419": {
+      "tier": "star",
+      "uid": "265",
+      "user": "Zeny"
+    },
+    "1420": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1426": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "681": {
+      "tier": "star",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "1454": {
+      "tier": "star",
+      "uid": "758",
+      "user": "FPEEU"
+    },
+    "1729": {
+      "tier": "star",
+      "uid": "268",
+      "user": "Pimsik"
+    },
+    "745": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "239": {
+      "tier": "star",
+      "uid": "101",
+      "user": "BrySky"
+    },
+    "501": {
+      "tier": "star",
+      "uid": "178",
+      "user": "UltraDash"
+    },
+    "249": {
+      "tier": "star",
+      "uid": "101",
+      "user": "BrySky"
+    },
+    "1796": {
+      "tier": "star",
+      "uid": "198",
+      "user": "Jolaf"
+    },
+    "1829": {
+      "tier": "star",
+      "uid": "957",
+      "user": "Krishere"
+    },
+    "1845": {
+      "tier": "star",
+      "uid": "117",
+      "user": "thevoidjake"
+    },
+    "1861": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1621": {
+      "tier": "star",
+      "uid": "193",
+      "user": "skorka"
+    },
+    "353": {
+      "tier": "star",
+      "uid": "136",
+      "user": "Water"
+    },
+    "360": {
+      "tier": "star",
+      "uid": "140",
+      "user": "zyreth"
+    },
+    "621": {
+      "tier": "star",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "1654": {
+      "tier": "star",
+      "uid": "867",
+      "user": "galactice"
+    },
+    "1920": {
+      "tier": "star",
+      "uid": "268",
+      "user": "Pimsik"
+    },
+    "653": {
+      "tier": "star",
+      "uid": "202",
+      "user": "Zeppy"
+    },
+    "156": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "435": {
+      "tier": "star",
+      "uid": "72",
+      "user": "Frigid"
+    },
+    "1210": {
+      "tier": "star",
+      "uid": "198",
+      "user": "Jolaf"
+    },
+    "699": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1487": {
+      "tier": "star",
+      "uid": "817",
+      "user": "Rolling9"
+    },
+    "1743": {
+      "tier": "star",
+      "uid": "222",
+      "user": "JuanCruzzz"
+    },
+    "725": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "992": {
+      "tier": "star",
+      "uid": "473",
+      "user": "Rtpgw"
+    },
+    "750": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "765": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "262": {
+      "tier": "star",
+      "uid": "101",
+      "user": "BrySky"
+    },
+    "273": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1578": {
+      "tier": "star",
+      "uid": "867",
+      "user": "galactice"
+    },
+    "1073": {
+      "tier": "star",
+      "uid": "503",
+      "user": "bese"
+    },
+    "1842": {
+      "tier": "star",
+      "uid": "964",
+      "user": "Dragonix"
+    },
+    "1844": {
+      "tier": "star",
+      "uid": "964",
+      "user": "Dragonix"
+    },
+    "1077": {
+      "tier": "star",
+      "uid": "210",
+      "user": "AtomiX"
+    },
+    "1600": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1860": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "334": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1875": {
+      "tier": "star",
+      "uid": "964",
+      "user": "Dragonix"
+    },
+    "1879": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1884": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "122": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "1919": {
+      "tier": "star",
+      "uid": "989",
+      "user": "asyntu"
+    },
+    "1927": {
+      "tier": "star",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "655": {
+      "tier": "star",
+      "uid": "197",
+      "user": "mamory"
+    },
+    "1436": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "165": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "714": {
+      "tier": "star",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "1231": {
+      "tier": "star",
+      "uid": "678",
+      "user": "Universal"
+    },
+    "1583": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "574": {
+      "tier": "star",
+      "uid": "193",
+      "user": "skorka"
+    },
+    "1867": {
+      "tier": "star",
+      "uid": "951",
+      "user": "playergdps"
+    },
+    "1877": {
+      "tier": "star",
+      "uid": "976",
+      "user": "ValderusUWU"
+    },
+    "1423": {
+      "tier": "star",
+      "uid": "492",
+      "user": "PurpleGDPS"
+    },
+    "657": {
+      "tier": "star",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "1943": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "420": {
+      "tier": "star",
+      "uid": "157",
+      "user": "Nurasaill"
+    },
+    "1446": {
+      "tier": "star",
+      "uid": "758",
+      "user": "FPEEU"
+    },
+    "429": {
+      "tier": "star",
+      "uid": "116",
+      "user": "kanameij"
+    },
+    "734": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "740": {
+      "tier": "star",
+      "uid": "176",
+      "user": "zendli"
+    },
+    "1786": {
+      "tier": "star",
+      "uid": "744",
+      "user": "BeepablesALT"
+    },
+    "1813": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "1846": {
+      "tier": "star",
+      "uid": "964",
+      "user": "Dragonix"
+    },
+    "1851": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "572": {
+      "tier": "star",
+      "uid": "113",
+      "user": "NoveltyTeam"
+    },
+    "1859": {
+      "tier": "star",
+      "uid": "867",
+      "user": "galactice"
+    },
+    "394": {
+      "tier": "star",
+      "uid": "116",
+      "user": "kanameij"
+    },
+    "400": {
+      "tier": "star",
+      "uid": "116",
+      "user": "kanameij"
+    },
+    "1946": {
+      "tier": "star",
+      "uid": "997",
+      "user": "progamerofgd"
+    },
+    "766": {
+      "tier": "star",
+      "uid": "157",
+      "user": "Nurasaill"
+    },
+    "270": {
+      "tier": "star",
+      "uid": "111",
+      "user": "gdbigqb"
+    },
+    "1811": {
+      "tier": "star",
+      "uid": "940",
+      "user": "DeluxeGMD"
+    },
+    "1825": {
+      "tier": "star",
+      "uid": "532",
+      "user": "Blugeodudeguy"
+    },
+    "1886": {
+      "tier": "star",
+      "uid": "976",
+      "user": "ValderusUWU"
+    },
+    "1936": {
+      "tier": "star",
+      "uid": "1002",
+      "user": "MrRandom1298"
+    },
+    "1948": {
+      "tier": "star",
+      "uid": "1005",
+      "user": "LawnMower"
+    },
+    "1489": {
+      "tier": "star",
+      "uid": "177",
+      "user": "sigma"
+    },
+    "434": {
+      "tier": "star",
+      "uid": "116",
+      "user": "kanameij"
+    },
+    "737": {
+      "tier": "star",
+      "uid": "218",
+      "user": "Bboppa"
+    },
+    "526": {
+      "tier": "star",
+      "uid": "175",
+      "user": "tix"
+    },
+    "522": {
+      "tier": "star",
+      "uid": "117",
+      "user": "thevoidjake"
+    },
+    "408": {
+      "tier": "star",
+      "uid": "116",
+      "user": "kanameij"
+    }
+  }
+}

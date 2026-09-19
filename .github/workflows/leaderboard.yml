@@ -1,0 +1,32 @@
+name: Clan Leaderboard Update
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Post clan leaderboard to Discord
+        run: python leaderboard.py
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+
+      - name: Commit updated points state
+        run: |
+          git config user.name "clans-leaderboard-bot"
+          git config user.email "clans-leaderboard-bot@users.noreply.github.com"
+          git add state.json
+          git commit -m "Update clan leaderboard state [skip ci]" || echo "No state changes"
+          git push

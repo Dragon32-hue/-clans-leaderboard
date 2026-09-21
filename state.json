@@ -1,6 +1,6 @@
 {
   "points": {
-    "RED": 616,
+    "RED": 615,
     "GREEN": 555,
     "BLUE": 323,
     "YELLO": 154
@@ -1965,11 +1965,6 @@
       "tier": "epic",
       "uid": "540",
       "user": "IcePhoenix284"
-    },
-    "2013": {
-      "tier": "star",
-      "uid": "117",
-      "user": "thevoidjake"
     }
   }
 }

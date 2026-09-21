@@ -1,6 +1,6 @@
 {
   "points": {
-    "RED": 615,
+    "RED": 635,
     "GREEN": 555,
     "BLUE": 323,
     "YELLO": 154
@@ -592,7 +592,7 @@
       "user": "KingMagma"
     },
     "101": {
-      "tier": "featured",
+      "tier": "epic",
       "uid": "72",
       "user": "Frigid"
     },
@@ -1965,6 +1965,11 @@
       "tier": "epic",
       "uid": "540",
       "user": "IcePhoenix284"
+    },
+    "2024": {
+      "tier": "legendary",
+      "uid": "248",
+      "user": "SUPERSTAR5555"
     }
   }
 }

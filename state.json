@@ -1,6 +1,6 @@
 {
   "points": {
-    "RED": 635,
+    "RED": 625,
     "GREEN": 555,
     "BLUE": 323,
     "YELLO": 154
@@ -1646,11 +1646,6 @@
       "uid": "72",
       "user": "Frigid"
     },
-    "1210": {
-      "tier": "star",
-      "uid": "198",
-      "user": "Jolaf"
-    },
     "699": {
       "tier": "star",
       "uid": "77",
@@ -1967,12 +1962,12 @@
       "user": "IcePhoenix284"
     },
     "2024": {
-      "tier": "legendary",
+      "tier": "epic",
       "uid": "248",
       "user": "SUPERSTAR5555"
     },
     "2026": {
-      "tier": "epic",
+      "tier": "featured",
       "uid": "72",
       "user": "Frigid"
     }

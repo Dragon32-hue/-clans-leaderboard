@@ -1,7 +1,7 @@
 {
   "points": {
     "RED": 625,
-    "GREEN": 555,
+    "GREEN": 556,
     "BLUE": 323,
     "YELLO": 154
   },
@@ -1970,6 +1970,11 @@
       "tier": "featured",
       "uid": "72",
       "user": "Frigid"
+    },
+    "275": {
+      "tier": "star",
+      "uid": "77",
+      "user": "Hidjacked"
     }
   }
 }

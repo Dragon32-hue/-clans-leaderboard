@@ -1,6 +1,6 @@
 {
   "points": {
-    "RED": 625,
+    "RED": 626,
     "GREEN": 557,
     "BLUE": 323,
     "YELLO": 154
@@ -1980,6 +1980,11 @@
       "tier": "star",
       "uid": "1010",
       "user": "Cyri"
+    },
+    "1507": {
+      "tier": "star",
+      "uid": "723",
+      "user": "Shiroi"
     }
   }
 }

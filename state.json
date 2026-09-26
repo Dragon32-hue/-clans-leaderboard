@@ -1,7 +1,7 @@
 {
   "points": {
     "RED": 626,
-    "GREEN": 557,
+    "GREEN": 561,
     "BLUE": 323,
     "YELLO": 154
   },
@@ -1977,7 +1977,7 @@
       "user": "Hidjacked"
     },
     "2029": {
-      "tier": "star",
+      "tier": "featured",
       "uid": "1010",
       "user": "Cyri"
     },

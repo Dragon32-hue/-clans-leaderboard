@@ -2,8 +2,8 @@
   "points": {
     "RED": 627,
     "GREEN": 561,
-    "BLUE": 343,
-    "YELLO": 154
+    "BLUE": 353,
+    "YELLO": 174
   },
   "levels": {
     "409": {
@@ -2000,6 +2000,16 @@
       "tier": "star",
       "uid": "988",
       "user": "Orion"
+    },
+    "2048": {
+      "tier": "legendary",
+      "uid": "931",
+      "user": "BenjamlnNetanyahu"
+    },
+    "2047": {
+      "tier": "epic",
+      "uid": "1047",
+      "user": "pixeldash5"
     }
   }
 }

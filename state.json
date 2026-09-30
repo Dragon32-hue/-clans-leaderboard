@@ -1,8 +1,8 @@
 {
   "points": {
     "RED": 627,
-    "GREEN": 562,
-    "BLUE": 354,
+    "GREEN": 563,
+    "BLUE": 360,
     "YELLO": 174
   },
   "levels": {
@@ -2022,6 +2022,26 @@
       "user": "hidjacked"
     },
     "2044": {
+      "tier": "star",
+      "uid": "1047",
+      "user": "pixeldash5"
+    },
+    "2053": {
+      "tier": "featured",
+      "uid": "1047",
+      "user": "pixeldash5"
+    },
+    "1299": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
+    },
+    "1614": {
+      "tier": "star",
+      "uid": "886",
+      "user": "Alexich"
+    },
+    "2054": {
       "tier": "star",
       "uid": "1047",
       "user": "pixeldash5"

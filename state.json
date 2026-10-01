@@ -2,7 +2,7 @@
   "points": {
     "RED": 627,
     "GREEN": 563,
-    "BLUE": 360,
+    "BLUE": 370,
     "YELLO": 174
   },
   "levels": {
@@ -2043,6 +2043,11 @@
     },
     "2054": {
       "tier": "star",
+      "uid": "1047",
+      "user": "pixeldash5"
+    },
+    "2055": {
+      "tier": "epic",
       "uid": "1047",
       "user": "pixeldash5"
     }

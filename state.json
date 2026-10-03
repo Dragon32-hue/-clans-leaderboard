@@ -1,7 +1,7 @@
 {
   "points": {
-    "RED": 627,
-    "GREEN": 563,
+    "RED": 647,
+    "GREEN": 574,
     "BLUE": 356,
     "YELLO": 179
   },
@@ -1987,9 +1987,9 @@
       "user": "Shiroi"
     },
     "2039": {
-      "tier": "epic",
+      "tier": "star",
       "uid": "1046",
-      "user": "toterogdps"
+      "user": "ToteroGDPS"
     },
     "2040": {
       "tier": "legendary",
@@ -2050,6 +2050,26 @@
       "tier": "featured",
       "uid": "82",
       "user": "MudAnimates"
+    },
+    "2057": {
+      "tier": "legendary",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "2060": {
+      "tier": "epic",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "2056": {
+      "tier": "featured",
+      "uid": "1002",
+      "user": "mrrandom1298"
+    },
+    "2061": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
     }
   }
 }

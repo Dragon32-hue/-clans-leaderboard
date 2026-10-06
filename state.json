@@ -1,7 +1,7 @@
 {
   "points": {
     "RED": 647,
-    "GREEN": 569,
+    "GREEN": 570,
     "BLUE": 356,
     "YELLO": 179
   },
@@ -2070,6 +2070,16 @@
       "tier": "star",
       "uid": "77",
       "user": "hidjacked"
+    },
+    "2065": {
+      "tier": "star",
+      "uid": "1060",
+      "user": "YakuNeko"
+    },
+    "2066": {
+      "tier": "star",
+      "uid": "98",
+      "user": "ghoulmp4"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "points": {
     "RED": 687,
-    "GREEN": 585,
-    "BLUE": 356,
+    "GREEN": 586,
+    "BLUE": 357,
     "YELLO": 189
   },
   "levels": {
@@ -2080,6 +2080,21 @@
       "tier": "star",
       "uid": "98",
       "user": "ghoulmp4"
+    },
+    "2067": {
+      "tier": "star",
+      "uid": "1060",
+      "user": "YakuNeko"
+    },
+    "2068": {
+      "tier": "star",
+      "uid": "1047",
+      "user": "pixeldash5"
+    },
+    "2070": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
     }
   }
 }

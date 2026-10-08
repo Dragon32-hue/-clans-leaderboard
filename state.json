@@ -1,7 +1,7 @@
 {
   "points": {
     "RED": 687,
-    "GREEN": 586,
+    "GREEN": 584,
     "BLUE": 357,
     "YELLO": 189
   },
@@ -1351,11 +1351,6 @@
       "uid": "117",
       "user": "thevoidjake"
     },
-    "133": {
-      "tier": "star",
-      "uid": "77",
-      "user": "hidjacked"
-    },
     "1768": {
       "tier": "star",
       "uid": "830",
@@ -2015,11 +2010,6 @@
       "tier": "epic",
       "uid": "72",
       "user": "Frigid"
-    },
-    "142": {
-      "tier": "star",
-      "uid": "77",
-      "user": "hidjacked"
     },
     "2044": {
       "tier": "star",

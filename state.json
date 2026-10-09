@@ -1,9 +1,9 @@
 {
   "points": {
-    "RED": 0,
+    "RED": 1,
     "GREEN": 0,
     "BLUE": 0,
-    "YELLO": 0
+    "YELLO": 5
   },
   "levels": {
     "409": {
@@ -2085,6 +2085,16 @@
       "tier": "star",
       "uid": "77",
       "user": "hidjacked"
+    },
+    "2075": {
+      "tier": "featured",
+      "uid": "268",
+      "user": "pimsik"
+    },
+    "2074": {
+      "tier": "star",
+      "uid": "1043",
+      "user": "kirbyfan123"
     }
   }
 }

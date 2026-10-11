@@ -3,7 +3,7 @@
     "RED": 11,
     "GREEN": 1,
     "BLUE": 0,
-    "YELLO": 5
+    "YELLO": 9
   },
   "levels": {
     "409": {
@@ -1212,9 +1212,9 @@
       "user": "mark06"
     },
     "775": {
-      "tier": "star",
+      "tier": "featured",
       "uid": "268",
-      "user": "Pimsik"
+      "user": "pimsik"
     },
     "230": {
       "tier": "star",
@@ -2105,6 +2105,16 @@
       "tier": "star",
       "uid": "976",
       "user": "ValderusUWU"
+    },
+    "583": {
+      "tier": "epic",
+      "uid": "81",
+      "user": "BloomTails"
+    },
+    "2082": {
+      "tier": "featured",
+      "uid": "1067",
+      "user": "ispy"
     }
   }
 }

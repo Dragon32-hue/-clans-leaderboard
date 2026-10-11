@@ -1,7 +1,7 @@
 {
   "points": {
-    "RED": 1,
-    "GREEN": 0,
+    "RED": 11,
+    "GREEN": 1,
     "BLUE": 0,
     "YELLO": 5
   },
@@ -2095,6 +2095,16 @@
       "tier": "star",
       "uid": "1043",
       "user": "kirbyfan123"
+    },
+    "2077": {
+      "tier": "epic",
+      "uid": "175",
+      "user": "tix"
+    },
+    "2079": {
+      "tier": "star",
+      "uid": "976",
+      "user": "ValderusUWU"
     }
   }
 }

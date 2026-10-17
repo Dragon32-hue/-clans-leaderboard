@@ -1,7 +1,7 @@
 {
   "points": {
     "RED": 11,
-    "GREEN": 24,
+    "GREEN": 21,
     "BLUE": 5,
     "YELLO": 9
   },
@@ -2135,21 +2135,6 @@
       "tier": "featured",
       "uid": "1068",
       "user": "HaturzCarrier"
-    },
-    "142": {
-      "tier": "star",
-      "uid": "77",
-      "user": "hidjacked"
-    },
-    "133": {
-      "tier": "star",
-      "uid": "77",
-      "user": "hidjacked"
-    },
-    "111": {
-      "tier": "star",
-      "uid": "77",
-      "user": "hidjacked"
     }
   }
 }

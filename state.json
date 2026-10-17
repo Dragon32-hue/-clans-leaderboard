@@ -1,7 +1,7 @@
 {
   "points": {
-    "RED": 11,
-    "GREEN": 21,
+    "RED": 51,
+    "GREEN": 17,
     "BLUE": 5,
     "YELLO": 9
   },
@@ -2127,7 +2127,7 @@
       "user": "BloomTails"
     },
     "2092": {
-      "tier": "featured",
+      "tier": "star",
       "uid": "1010",
       "user": "Cyri"
     },
@@ -2135,6 +2135,11 @@
       "tier": "featured",
       "uid": "1068",
       "user": "HaturzCarrier"
+    },
+    "2089": {
+      "tier": "mythic",
+      "uid": "1038",
+      "user": "tails1154"
     }
   }
 }

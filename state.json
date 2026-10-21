@@ -7,7 +7,7 @@
   },
   "levels": {
     "409": {
-      "tier": "mythic",
+      "tier": "star",
       "uid": "127",
       "user": "Astro"
     },
@@ -2140,6 +2140,11 @@
       "tier": "featured",
       "uid": "856",
       "user": "Saphire2415"
+    },
+    "null": {
+      "tier": "mythic",
+      "uid": "127",
+      "user": "Astro"
     }
   }
 }

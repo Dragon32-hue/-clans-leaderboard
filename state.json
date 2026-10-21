@@ -2,7 +2,7 @@
   "points": {
     "RED": 11,
     "GREEN": 17,
-    "BLUE": 5,
+    "BLUE": 10,
     "YELLO": 9
   },
   "levels": {
@@ -582,7 +582,7 @@
       "user": "clover"
     },
     "1351": {
-      "tier": "featured",
+      "tier": "star",
       "uid": "736",
       "user": "Ryan"
     },
@@ -2135,6 +2135,11 @@
       "tier": "featured",
       "uid": "1068",
       "user": "HaturzCarrier"
+    },
+    "2104": {
+      "tier": "featured",
+      "uid": "856",
+      "user": "Saphire2415"
     }
   }
 }

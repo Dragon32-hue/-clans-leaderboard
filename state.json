@@ -1,6 +1,6 @@
 {
   "points": {
-    "RED": 16,
+    "RED": 21,
     "GREEN": 17,
     "BLUE": 10,
     "YELLO": 19
@@ -2160,6 +2160,26 @@
       "tier": "featured",
       "uid": "81",
       "user": "BloomTails"
+    },
+    "2120": {
+      "tier": "epic",
+      "uid": "72",
+      "user": "Frigid"
+    },
+    "2121": {
+      "tier": "featured",
+      "uid": "958",
+      "user": "VampierKnife"
+    },
+    "1826": {
+      "tier": "star",
+      "uid": "744",
+      "user": "BeepablesALT"
+    },
+    "2118": {
+      "tier": "star",
+      "uid": "1089",
+      "user": "Square"
     }
   }
 }

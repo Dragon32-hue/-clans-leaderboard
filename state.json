@@ -3,7 +3,7 @@
     "RED": 27,
     "GREEN": 17,
     "BLUE": 10,
-    "YELLO": 19
+    "YELLO": 15
   },
   "levels": {
     "409": {
@@ -1212,9 +1212,9 @@
       "user": "mark06"
     },
     "775": {
-      "tier": "featured",
+      "tier": "star",
       "uid": "268",
-      "user": "pimsik"
+      "user": "Pimsik"
     },
     "230": {
       "tier": "star",

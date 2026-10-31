@@ -1,9 +1,9 @@
 {
   "points": {
-    "RED": 42,
-    "GREEN": 27,
+    "RED": 27,
+    "GREEN": 17,
     "BLUE": 10,
-    "YELLO": 39
+    "YELLO": 19
   },
   "levels": {
     "409": {

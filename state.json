@@ -1,9 +1,9 @@
 {
   "points": {
     "RED": 27,
-    "GREEN": 17,
-    "BLUE": 10,
-    "YELLO": 19
+    "GREEN": 20,
+    "BLUE": 50,
+    "YELLO": 23
   },
   "levels": {
     "409": {
@@ -582,7 +582,7 @@
       "user": "clover"
     },
     "1351": {
-      "tier": "featured",
+      "tier": "star",
       "uid": "736",
       "user": "Ryan"
     },
@@ -1212,7 +1212,7 @@
       "user": "mark06"
     },
     "775": {
-      "tier": "star",
+      "tier": "featured",
       "uid": "268",
       "user": "Pimsik"
     },
@@ -1370,11 +1370,6 @@
       "tier": "star",
       "uid": "178",
       "user": "UltraDash"
-    },
-    "1305": {
-      "tier": "star",
-      "uid": "736",
-      "user": "Ryan"
     },
     "308": {
       "tier": "star",
@@ -2185,6 +2180,31 @@
       "tier": "star",
       "uid": "209",
       "user": "Flyx"
+    },
+    "2141": {
+      "tier": "mythic",
+      "uid": "94",
+      "user": "masterfes"
+    },
+    "2142": {
+      "tier": "legendary",
+      "uid": "1087",
+      "user": "Fresita"
+    },
+    "142": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "133": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "111": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
     }
   }
 }

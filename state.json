@@ -1,7 +1,7 @@
 {
   "points": {
     "RED": 27,
-    "GREEN": 20,
+    "GREEN": 29,
     "BLUE": 50,
     "YELLO": 23
   },
@@ -1896,11 +1896,6 @@
       "uid": "532",
       "user": "Blugeodudeguy"
     },
-    "1886": {
-      "tier": "star",
-      "uid": "976",
-      "user": "ValderusUWU"
-    },
     "1936": {
       "tier": "star",
       "uid": "1002",
@@ -2205,6 +2200,11 @@
       "tier": "star",
       "uid": "77",
       "user": "hidjacked"
+    },
+    "2139": {
+      "tier": "epic",
+      "uid": "1092",
+      "user": "Account"
     }
   }
 }

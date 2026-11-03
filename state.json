@@ -1,6 +1,6 @@
 {
   "points": {
-    "RED": 27,
+    "RED": 47,
     "GREEN": 29,
     "BLUE": 50,
     "YELLO": 23
@@ -2205,6 +2205,11 @@
       "tier": "star",
       "uid": "1089",
       "user": "Square"
+    },
+    "2152": {
+      "tier": "legendary",
+      "uid": "175",
+      "user": "tix"
     }
   }
 }

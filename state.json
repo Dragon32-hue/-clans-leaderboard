@@ -2181,11 +2181,6 @@
       "uid": "94",
       "user": "masterfes"
     },
-    "2142": {
-      "tier": "legendary",
-      "uid": "1087",
-      "user": "Fresita"
-    },
     "142": {
       "tier": "star",
       "uid": "77",
@@ -2205,6 +2200,11 @@
       "tier": "epic",
       "uid": "1092",
       "user": "Account"
+    },
+    "2125": {
+      "tier": "star",
+      "uid": "1089",
+      "user": "Square"
     }
   }
 }

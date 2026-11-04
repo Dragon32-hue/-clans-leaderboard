@@ -1,7 +1,7 @@
 {
   "points": {
     "RED": 47,
-    "GREEN": 29,
+    "GREEN": 34,
     "BLUE": 50,
     "YELLO": 23
   },
@@ -2210,6 +2210,11 @@
       "tier": "legendary",
       "uid": "175",
       "user": "tix"
+    },
+    "2150": {
+      "tier": "featured",
+      "uid": "1010",
+      "user": "Cyri"
     }
   }
 }

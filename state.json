@@ -1,9 +1,9 @@
 {
   "points": {
-    "RED": 47,
-    "GREEN": 34,
+    "RED": 46,
+    "GREEN": 31,
     "BLUE": 50,
-    "YELLO": 23
+    "YELLO": 28
   },
   "levels": {
     "409": {
@@ -1341,11 +1341,6 @@
       "uid": "111",
       "user": "gdbigqb"
     },
-    "384": {
-      "tier": "star",
-      "uid": "117",
-      "user": "thevoidjake"
-    },
     "1768": {
       "tier": "star",
       "uid": "830",
@@ -2181,21 +2176,6 @@
       "uid": "94",
       "user": "masterfes"
     },
-    "142": {
-      "tier": "star",
-      "uid": "77",
-      "user": "hidjacked"
-    },
-    "133": {
-      "tier": "star",
-      "uid": "77",
-      "user": "hidjacked"
-    },
-    "111": {
-      "tier": "star",
-      "uid": "77",
-      "user": "hidjacked"
-    },
     "2139": {
       "tier": "epic",
       "uid": "1092",
@@ -2220,6 +2200,16 @@
       "tier": "legendary",
       "uid": "1087",
       "user": "Fresita"
+    },
+    "2155": {
+      "tier": "featured",
+      "uid": "116",
+      "user": "kanameij"
+    },
+    "1305": {
+      "tier": "star",
+      "uid": "736",
+      "user": "Ryan"
     }
   }
 }

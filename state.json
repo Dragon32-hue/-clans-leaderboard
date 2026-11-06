@@ -1,9 +1,9 @@
 {
   "points": {
     "RED": 46,
-    "GREEN": 31,
+    "GREEN": 36,
     "BLUE": 50,
-    "YELLO": 28
+    "YELLO": 33
   },
   "levels": {
     "409": {
@@ -2202,7 +2202,7 @@
       "user": "Fresita"
     },
     "2155": {
-      "tier": "featured",
+      "tier": "epic",
       "uid": "116",
       "user": "kanameij"
     },
@@ -2210,6 +2210,11 @@
       "tier": "star",
       "uid": "736",
       "user": "Ryan"
+    },
+    "2157": {
+      "tier": "featured",
+      "uid": "77",
+      "user": "hidjacked"
     }
   }
 }

@@ -1,9 +1,11 @@
 {
   "points": {
     "RED": 46,
-    "GREEN": 36,
+    "GREEN": 39,
     "BLUE": 50,
-    "YELLO": 33
+    "YELLO": 33,
+    "TCD": 5,
+    "BRD": 1
   },
   "levels": {
     "409": {
@@ -2216,10 +2218,35 @@
       "uid": "77",
       "user": "hidjacked"
     },
-    "2158": {
+    "2171": {
+      "tier": "epic",
+      "uid": "195",
+      "user": "ZellWowStar"
+    },
+    "2000": {
       "tier": "featured",
-      "uid": "72",
-      "user": "Frigid"
+      "uid": "189",
+      "user": "reupload2"
+    },
+    "384": {
+      "tier": "star",
+      "uid": "117",
+      "user": "thevoidjake"
+    },
+    "142": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "133": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
+    },
+    "111": {
+      "tier": "star",
+      "uid": "77",
+      "user": "hidjacked"
     }
   }
 }

@@ -257,7 +257,7 @@ def main() -> int:
         user = clean_username(users.get(uid, "?"))
         clan = username.get(user)
         if clan and diff:
-            points[clan] += diff
+            points[clan] = points.get(clan, 0) + diff
             net[clan] += diff
         if old_tier:
             changes.append({"name": name, "user": user, "tier": max(tier, old_tier, key=lambda t: TIER_POINTS.get(t, 0)),
